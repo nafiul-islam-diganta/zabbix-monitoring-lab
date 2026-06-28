@@ -11,7 +11,7 @@ Zabbix 7.0 LTS.
 
 ## 📸 Dashboard
 
-<!-- Add dashboard screenshot here after upload -->
+![NOC Dashboard](new%20dashboard.png)
 
 ---
 
@@ -138,18 +138,20 @@ zabbix-monitoring-lab/
 
 ## 📸 Screenshots
 
+### NOC Dashboard — Linux VM + Windows Laptop
+![Dashboard](new%20dashboard.png)
+
 ### Server Status (Active & Running)
-<!-- Add active.png here -->
+![Server Status](active.png)
 
 ### SNMP Terminal Output
-<!-- Add CLI_image.png here -->
+![SNMP Output](CLI%20image.png)
 
 ### Email Alert Received
-<!-- Add email.png here -->
+![Email Alert](email.png)
 
 ### Windows Laptop — 161 Metrics
-<!-- Add laptop_2_data.png here -->
-
+![Windows Metrics](laptop%202%20data.png)
 ---
 
 ## 🛠️ Installation Summary
